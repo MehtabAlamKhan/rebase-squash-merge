@@ -16,3 +16,4 @@ console.log("b2 2");
 console.log("main 1");
 
 console.log("b3 1");
+console.log("b3 2");
