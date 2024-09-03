@@ -11,3 +11,4 @@ console.log("bug 2");
 
 console.log("main n1");
 console.log("main n2");
+console.log("b2 1");
