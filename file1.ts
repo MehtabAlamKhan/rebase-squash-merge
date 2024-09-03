@@ -20,3 +20,4 @@ console.log("b3 2");
 console.log("b3 3");
 
 console.log("squash 1");
+console.log("squash 2");
