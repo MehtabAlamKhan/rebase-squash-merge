@@ -19,4 +19,8 @@ console.log("b3 1");
 console.log("b3 2");
 console.log("b3 3");
 
+console.log("squash 1");
+console.log("squash 2");
+console.log("squash 3");
+
 console.log("after squash 1");
